@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,MAAM,AAAA,aAAa,CAAC,MAAM,AAAC,CACxB,KAAK,CAAE,IAAI,CACb",
+    "sources": [
+        "react-differences.scss",
+        "_inputs.scss"
+    ],
+    "names": [],
+    "file": "react-differences.min.css"
+}
